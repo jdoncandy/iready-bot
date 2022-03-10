@@ -14,6 +14,7 @@ def bot(img):
 
     if var == None:
         onscreen = False
+    
     else:
         onscreen = True
     print(var)
