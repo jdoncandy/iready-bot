@@ -1,4 +1,4 @@
-import pyautogui
+import pyautogui #imports pyautogui
 import time
 
 time.sleep(5)
